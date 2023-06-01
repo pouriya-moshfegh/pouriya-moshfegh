@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Pouriya Moshfegh</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="center" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:859/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
+<img align="center" alt="coding" width="600" src="https://cdn-images-1.medium.com/v2/resize:fit:859/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
 - 🌱 I’m currently learning **frontend advance features**
 
